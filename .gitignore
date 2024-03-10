@@ -1,0 +1,7 @@
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+out/production/cwh/.idea/cwh.iml
+out/production/cwh/.idea/misc.xml
+out/production/cwh/.idea/modules.xml
+
